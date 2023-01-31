@@ -7,7 +7,8 @@
 3)metamask    
 4)ganache    
 
-Use npm run dev to live project on localhost.
+~Install node modules by running npm install in terminal      
+~Use npm run dev to live project on localhost.     
 
-Extra: 
+Note: 
 Create accounts from matamask to cast vote. For this you can take private key from ganache. 
